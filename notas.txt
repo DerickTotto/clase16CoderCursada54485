@@ -21,3 +21,9 @@ git add * o git add . (Selecciona todo)
 
 - Comando para darle descripcion al cambio
 git commit -m "Mensaje descriptivo del cambio"
+
+- Comando para enviar nuestros cambios a github 
+git push -u origin master
+
+- Comando para listar nuestras ramas
+git branch
